@@ -60,3 +60,4 @@ jobs:
           sudo docker pull euhoppe/infract
           sudo docker stop $(sudo docker ps -a -q)
           sudo docker run --rm -d -p 5000:5000 euhoppe/infract
+          cd /root/nginxproxy && docker-compose up -d
