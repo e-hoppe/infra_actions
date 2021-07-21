@@ -26,7 +26,7 @@ SECRET_KEY = 'k9gwcfq01xszx2(_4e#gc3u$rt=)y6ivx=$wt+5&-^ktk4dg4e'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '157.90.23.30',
+    'myapp.aiumi.io',
 ]
 
 
