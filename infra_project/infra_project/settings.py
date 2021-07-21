@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'myapp.aiumi.io',
+    '157.90.23.30',
 ]
 
 
